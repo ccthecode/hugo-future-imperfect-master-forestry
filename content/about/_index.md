@@ -5,8 +5,6 @@ title = "About Hugo"
 +++
 **Hugo** is a static site engine written in Go.
 
-[pexels-photo-6154807.jpeg?cs=srgb&dl=pexels-john-lee-6154807.jpg&fm=jpg](https://images.pexels.com/photos/6154807/pexels-photo-6154807.jpeg?cs=srgb&dl=pexels-john-lee-6154807.jpg&fm=jpg "pexels-photo-6154807.jpeg?cs=srgb&dl=pexels-john-lee-6154807.jpg&fm=jpg")
-
 It makes use of a variety of open source projects including:
 
 * [Cobra](https://github.com/spf13/cobra)
