@@ -8,6 +8,7 @@ featuredalt = ""
 featuredpath = ""
 linktitle = ""
 title = "Hey Dylannumm157"
+type = "post"
 
 +++
 This is a dummy blog for you posted from forestry
