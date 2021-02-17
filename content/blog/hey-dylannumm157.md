@@ -2,7 +2,7 @@
 author = "Williams"
 categories = []
 date = 2021-02-15T23:00:00Z
-description = "This is a proof that imperfect can be hooked up with hugo "
+description = "Hugo Forestry Netlify GitHub"
 featured = ""
 featuredalt = ""
 featuredpath = ""
