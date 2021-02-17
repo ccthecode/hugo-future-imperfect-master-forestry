@@ -9,8 +9,8 @@ pluralizeListTitles = false
 preserveTaxonomyNames = true
 title = "Hugo Future Imperfect"
 [[menu.main]]
-name = "Hallo"
-url = "Pexels.com"
+name = "Visit Pexels"
+url = "https://pexels.com"
 weight = 7
 [[menu.main]]
 identifier = "fa fa-envelope-o"
