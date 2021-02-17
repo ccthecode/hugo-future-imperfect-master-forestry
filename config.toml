@@ -76,9 +76,9 @@ header = "Dylannum !"
 paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
 [params.intro.pic]
 alt = "Hugo Future Imperfect"
-circle = false
+circle = true
 imperfect = true
-src = "/img/main/logo.jpg"
+src = "https://www.pexels.com/photo/woman-covering-her-two-eyes-704977/"
 width = ""
 [params.postAmount]
 sidebar = 5
