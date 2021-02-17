@@ -77,8 +77,8 @@ paragraph = "Another fine responsive site template by <a href=\"http://html5up.n
 [params.intro.pic]
 alt = "Hugo Future Imperfect"
 circle = true
-imperfect = true
-src = "https://www.pexels.com/photo/woman-covering-her-two-eyes-704977/"
+imperfect = false
+src = "/img/main/logo.jpg"
 width = ""
 [params.postAmount]
 sidebar = 5
